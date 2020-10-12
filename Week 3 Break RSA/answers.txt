@@ -1,0 +1,4 @@
+Value of p: 1327
+Value of q: 9419
+Value of d: 7044241
+Resultant string: Ethan_Paek3121
